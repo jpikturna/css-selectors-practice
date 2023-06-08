@@ -16,3 +16,7 @@ a[href*="wikipedia"]{
     background-color: purple;
     color: white;
 }
+h2, h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: slateblue;
+}

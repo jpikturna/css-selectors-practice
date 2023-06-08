@@ -1,4 +1,7 @@
 /* Type Selectors */
+*{
+    background-color: lavender;
+}
 button {
     color: green;
 }
@@ -10,5 +13,6 @@ button {
     color: darkblue;
 }
 a[href*="wikipedia"]{
-    background-color: red;
+    background-color: purple;
+    color: white;
 }

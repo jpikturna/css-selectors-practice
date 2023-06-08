@@ -5,3 +5,7 @@ button {
 .blue {
     color: blue;
 }
+#big_text_header{
+    font-size: 60px;
+    color: darkblue;
+}

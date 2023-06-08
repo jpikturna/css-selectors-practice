@@ -9,3 +9,6 @@ button {
     font-size: 60px;
     color: darkblue;
 }
+a[href*="wikipedia"]{
+    background-color: red;
+}
